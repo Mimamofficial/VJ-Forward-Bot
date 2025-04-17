@@ -33,12 +33,12 @@ class  Script(object):
 ► __if the **From Channel** is private your userbot must be member in there or your bot must need admin permission in there also__
 ► __Then use /forward to forward messages__
 
-► ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍᴇ [ᴛᴜᴛᴏʀɪᴀʟ ᴠɪᴅᴇᴏ](https://youtube.com/@mimam_official?si=0-mwZiRkA29lYaEm)</b>"""
+► ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍᴇ [ᴛᴜᴛᴏʀɪᴀʟ ᴠɪᴅᴇᴏ](https://www.youtube.com/@AV_World-s2e)</b>"""
   
   ABOUT_TXT = """<b>
 ╔════❰ ғᴏʀᴡᴀʀᴅ ʙᴏᴛ ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣
-║┣⪼📃ʙᴏᴛ : [https://www.youtube.com/@AV_World-s2e ʙᴏᴛ](https://t.me/ChillFlizXFilterbot)
+║┣⪼📃ʙᴏᴛ : [ᴍᴏᴠɪᴇs ʙᴏᴛ](https://t.me/ChillFlizXFilterbot)
 ║┣⪼👦Cʀᴇᴀᴛᴏʀ : [ཧᜰ꙰ꦿ➢𝐀𝐛𝔥𝕚ŞℍＥҜ༒](https://t.me/AV_King1)
 ║┣⪼🤖Uᴘᴅᴀᴛᴇ : [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/MOVIES_WORLDZS)
 ║┣⪼📡Hᴏsᴛᴇᴅ ᴏɴ : Sᴜᴘᴇʀ Fᴀsᴛ
