@@ -38,9 +38,9 @@ class  Script(object):
   ABOUT_TXT = """<b>
 ╔════❰ ғᴏʀᴡᴀʀᴅ ʙᴏᴛ ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣
-║┣⪼📃ʙᴏᴛ : [ᴍᴏᴠɪᴇs ʙᴏᴛ](https://t.me/ChillFlizXFilterbot)
-║┣⪼👦Cʀᴇᴀᴛᴏʀ : [꧁𓊈𒆜𝖒𝖎𝖒𝖆𝖒_𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑𒆜𓊉꧂](https://t.me/mimam_officialx)
-║┣⪼🤖Uᴘᴅᴀᴛᴇ : [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/MRN_RIPPER)
+║┣⪼📃ʙᴏᴛ : [https://www.youtube.com/@AV_World-s2e ʙᴏᴛ](https://t.me/ChillFlizXFilterbot)
+║┣⪼👦Cʀᴇᴀᴛᴏʀ : [ཧᜰ꙰ꦿ➢𝐀𝐛𝔥𝕚ŞℍＥҜ༒](https://t.me/AV_King1)
+║┣⪼🤖Uᴘᴅᴀᴛᴇ : [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/MOVIES_WORLDZS)
 ║┣⪼📡Hᴏsᴛᴇᴅ ᴏɴ : Sᴜᴘᴇʀ Fᴀsᴛ
 ║┣⪼🗣️Lᴀɴɢᴜᴀɢᴇ : Pʏᴛʜᴏɴ3
 ║┣⪼📚Lɪʙʀᴀʀʏ : Pʏʀᴏɢʀᴀᴍ Gᴀᴛʜᴇʀ 2.11.0 
